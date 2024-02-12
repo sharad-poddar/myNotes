@@ -1,0 +1,5 @@
+node_modules
+.env
+
+# logs did't help in our code base so dont need to push
+logs
